@@ -25,6 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaybid&show_icons=true&locale=en" alt="xaybid" /></p>
 
 <img src="https://raw.githubusercontent.com/xaybid/xaybid/output/snake.svg" alt="Snake animation" />
-
-###
-
