@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://instagram.com/xaybid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xaybid" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dibya-ranjan-mohanta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="xaybid" height="30" width="40" /></a>
+<a href="https://dev.to/xaybid" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" alt="xaybid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
