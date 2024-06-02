@@ -1,4 +1,4 @@
-![MasterHead](https://debarshiray.files.wordpress.com /2021/11/toolbox-matrix.gif)
+![MasterHead](https://debarshiray.files.wordpress.com/2021/11/toolbox-matrix.gif)
 <h1 align="center">Hi 👋, I'm Dibya Ranjan Mohanta</h1>
 <h3 align="center">A passionate full-stack developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
