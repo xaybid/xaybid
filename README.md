@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="https://github.com/xaybid/xaybid/assets/94035811/b85572c7-739c-415b-9baa-bdbe6dd0d774" alt="Dibya Ranjan Mohanta" />
-</div>
+    <img src="https://github.com/xaybid/xaybid/assets/94035811/7e492745-e96d-4467-a98d-f74b6bc8d288" alt="Dibya Ranjan Mohanta" />
 
 
 <h1 align="center">Hi 👋, I'm Dibya Ranjan Mohanta</h1>
 <h3 align="center">Full-Stack Developer!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/xaybid/xaybid/assets/94035811/4f91b698-3715-46a8-9bfc-ac6f51af6507">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaybid&label=Profile%20views&color=0e75b6&style=flat" alt="xaybid" /> </p>
