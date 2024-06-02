@@ -66,12 +66,11 @@
 
 ### Stats 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=xaybid&theme=tokyonight&show_icons=true&locale=en" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaybid&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaybid&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=xaybid&theme=tokyonight&show_icons=true&locale=en" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xaybid&theme=tokyonight&show_icons=true&locale=en&layout=compact"/> 
 </p>
-
