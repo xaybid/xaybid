@@ -4,17 +4,18 @@
 
 <h1 align="center">Hi 👋, I'm Dibya Ranjan Mohanta</h1>
 <h3 align="center">Full-Stack Developer!</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/xaybid/xaybid/assets/94035811/4f91b698-3715-46a8-9bfc-ac6f51af6507">
+
+<img align="right" alt="Coding" width="400" src="https://github.com/xaybid/xaybid/assets/94035811/c2d0ec8e-725e-4355-b14a-ee14e9cc40b3">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaybid&label=Profile%20views&color=0e75b6&style=flat" alt="xaybid" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack,NEXT.JS**
+<p align="left">- 🌱 I’m currently learning <b>MERN Stack, NextJS</b></p>
 
-- 💬 Ask me about **React,C++,Node.JS**
+<p align="left">- 💬 Ask me about <b>ReactJS, C, C++, NodeJS</b></p>
 
-- 📫 How to reach me **dibyaranjan.mohanta59@gmail.com**
+<p align="left">- 📫 Mail me @ <b><a href="mailto:dibyaranjan.mohanta59@gmail.com">dibyaranjan.mohanta59@gmail.com</a></b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
