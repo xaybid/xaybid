@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaybid&label=Profile%20views&color=0e75b6&style=flat" alt="xaybid" /> </p>
 
-<p align="left">- 🌱 I’m currently learning <b>MERN Stack, NextJS</b></p>
+<p align="left">- 🌱 I’m currently learning <b>Unreal Engine</b></p>
 
 <p align="left">- 💬 Ask me about <b>ReactJS, C, C++, NodeJS</b></p>
 
