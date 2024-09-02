@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dibya Ranjan Mohanta</h1>
-<h3 align="center">Full-Stack Developer!</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/xaybid/xaybid/assets/94035811/c2d0ec8e-725e-4355-b14a-ee14e9cc40b3">
 
