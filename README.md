@@ -28,7 +28,6 @@
 
 <h1 align="center">  </h1>
 <h3 align="center"></h3>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xaybid&theme=tokyonight" alt="trophs"/> </p> 
 
 
 
