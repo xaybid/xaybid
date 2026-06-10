@@ -5,20 +5,17 @@
 <h1 align="center">Hi, I'm Dibya</h1>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/xaybid/xaybid/assets/94035811/c2d0ec8e-725e-4355-b14a-ee14e9cc40b3">
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xaybid&label=Profile%20views&color=0e75b6&style=flat" alt="xaybid" /> </p>
 
+<p align="center">- 🌱 I’m currently learning <b>Unreal Engine</b></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xaybid&label=Profile%20views&color=0e75b6&style=flat" alt="xaybid" /> </p>
+<p align="center">- 💬 Ask me about <b>ReactJS, C, C++, NodeJS</b></p>
 
-<p align="left">- 🌱 I’m currently learning <b>Unreal Engine</b></p>
+<p align="center">- 📫 Mail me @ <b><a href="mailto:dibyaranjan.mohanta59@gmail.com">dibyaranjan.mohanta59@gmail.com</a></b></p>
 
-<p align="left">- 💬 Ask me about <b>ReactJS, C, C++, NodeJS</b></p>
-
-<p align="left">- 📫 Mail me @ <b><a href="mailto:dibyaranjan.mohanta59@gmail.com">dibyaranjan.mohanta59@gmail.com</a></b></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/xaybid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xaybid" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dibya-ranjan-mohanta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="xaybid" height="30" width="40" /></a>
 <a href="https://dev.to/xaybid" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" alt="xaybid" height="30" width="40" /></a>
